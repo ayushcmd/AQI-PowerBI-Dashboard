@@ -1,56 +1,56 @@
-# 🌫️ Air Pollution in India – 2024  
-### 📊 Power BI Analytics Dashboard
+# 🌫️ Air Pollution in India – 2024
+### Power BI Dashboard Project
 
-> *Lesser is better in Air Quality Index (AQI)*
+This project presents an interactive **Power BI dashboard** analyzing the **Air Quality Index (AQI)** across major Indian cities and states for the year 2024.
 
-An interactive **Power BI dashboard** analyzing **Air Quality Index (AQI)** across major Indian cities and states for the year **2024**, with a focus on **PM2.5, PM10**, and other pollutant parameters.
-
----
-
-## 🚀 Project Overview
-
-Air pollution is a major environmental and public health concern in India.  
-This project provides a **data-driven analysis of AQI values**, pollutant composition, and air quality trends across multiple cities and states using interactive visualizations.
-
-The dashboard helps in:
-- Understanding regional air quality differences  
-- Identifying high-risk pollution zones  
-- Analyzing dominant pollutants  
-- Observing AQI trends over time  
+The analysis focuses on **AQI values, PM2.5, PM10**, and other pollutant parameters to understand pollution levels and trends.
 
 ---
 
-## 🧠 Key Insights
+## 📊 Project Overview
 
-- City-wise and state-wise AQI comparison  
-- PM2.5 and PM10 concentration analysis  
-- AQI category distribution (Good → Hazardous)  
-- Monthly AQI trend comparison  
-- Pollutant contribution percentage  
-- Health impact insights related to air pollution  
+Air pollution is a major environmental concern in India.  
+This dashboard helps visualize and compare air quality data across cities and states using clear and interactive visuals.
 
----
-
-## 📊 Dashboard Features
-
-- AQI value and category for selected city  
-- Overall pollution index by state  
-- Pollutant-wise percentage contribution  
-- Count of cities by AQI category  
-- Average PM2.5 comparison across countries  
-- Interactive filters for city and state selection  
+Key objectives:
+- Analyze AQI values across major cities
+- Study PM2.5 and PM10 pollution levels
+- Compare air quality across regions
+- Understand AQI category distribution
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-- Power BI  
-- DAX  
-- Power Query  
-- Data Modeling  
-- Data Visualization  
+- Power BI
+- DAX
+- Power Query
+- Data Visualization
 
 ---
 
-## 📁 Project Structure
+## 📁 Files in this Repository
+
+- `AQI_Dashboard.pbix` – Power BI dashboard file  
+- `dashboard.png` – Dashboard preview image  
+- `README.md` – Project documentation  
+
+---
+
+## 🔗 Live Dashboard
+
+Power BI Public Link:  
+https://app.powerbi.com/links/aZY0sC6VfJ?ctid=a57f7d92-038e-4d4c-8265-7cd2beb33b34&pbi_source=linkShare
+
+
+---
+
+## 👤 Author
+
+**Ayush Raj**  
+GitHub: https://github.com/ayushcmd
+
+---
+
+⭐ This is my first Power BI project shared on GitHub.
 
