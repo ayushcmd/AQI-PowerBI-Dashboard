@@ -31,8 +31,8 @@ Key objectives:
 
 ## 📁 Files in this Repository
 
-- `AQI_Dashboard.pbix` – Power BI dashboard file  
-- `dashboard.png` – Dashboard preview image  
+- `AQI_Indian_Cities_Dashboard.pbix` – Power BI dashboard file  
+- `Dashbaord_Image.png` – Dashboard preview image  
 - `README.md` – Project documentation  
 
 ---
